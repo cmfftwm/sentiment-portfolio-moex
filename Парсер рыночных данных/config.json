@@ -1,0 +1,16 @@
+{
+  "secids": [
+    "OZON"
+  ],
+  "start_date": "2020-01-01",
+  "end_date": "2025-05-20",
+  "engine": "stock",
+  "market": "shares",
+  "boardid": "TQBR",
+  "interval": 1,
+  "db_name": "moex_1m.db",
+  "concurrency": 4,
+  "timeout_sec": 30,
+  "max_retries": 5,
+  "sleep_base_sec": 0.5
+}
